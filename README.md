@@ -43,8 +43,10 @@ Watch our demonstration video on [Bilibili](https://www.bilibili.com/video/BV16w
 
 ## Release Status
 
+Code coming soon.
+<!--
 The code and dataset are being prepared for public release. Download links and usage instructions will be added to this repository when available.
-
+-->
 ## Acknowledgments
 
 Our data generation pipeline builds upon [OpenFly](https://github.com/SHAILAB-IPEC/OpenFly-Platform). We thank the authors for making their work publicly available.
