@@ -1,24 +1,23 @@
 <div align="center">
 
-# KinoUAV: A Benchmark for Safe and Stable UAV Vision-Language Navigation with Kinodynamic Modeling
+<h1>KinoUAV: A Benchmark for Safe and Stable UAV Vision-Language Navigation with Kinodynamic Modeling</h1>
 
 <p>
   Chenyao Yang<sup>1,2,3,4</sup>,
-  Peijin Wang<sup>1,2,3,4</sup>,
+  Peijin Wang<sup>1,2,3,4,&dagger;</sup>,
   Yingchao Feng<sup>1,4</sup>,
-  Wenhui Diao<sup>1,4</sup>,
-  Xian Sun<sup>1,2,3,4,&dagger;</sup>
+  Wenhui Diao<sup>1,4</sup>
 </p>
 
 <p>
-  <sup>1</sup> Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China<br>
-  <sup>2</sup> University of Chinese Academy of Sciences, Beijing, China<br>
-  <sup>3</sup> School of Electronic, Electrical and Communication Engineering, University of Chinese Academy of Sciences, Beijing, China<br>
-  <sup>4</sup> Key Laboratory of Target Cognition and Application Technology, Beijing, China
+  <sup>1</sup> Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing 100190, China<br>
+  <sup>2</sup> University of Chinese Academy of Sciences, Beijing 100190, China<br>
+  <sup>3</sup> School of Electronic, Electrical and Communication Engineering, University of Chinese Academy of Sciences, Beijing 100190, China<br>
+  <sup>4</sup> Key Laboratory of Target Cognition and Application Technology, Beijing 100190, China
 </p>
 
 <p>
-  <sup>&dagger;</sup> Corresponding author
+  <sup>&dagger;</sup> Corresponding author: Peijin Wang (<a href="mailto:wangpeijin17@mails.ucas.ac.cn">wangpeijin17@mails.ucas.ac.cn</a>)
 </p>
 
 <p>
@@ -43,12 +42,8 @@ Watch our demonstration video on [Bilibili](https://www.bilibili.com/video/BV16w
 
 ## Release Status
 
-Code coming soon.
-<!--
 The code and dataset are being prepared for public release. Download links and usage instructions will be added to this repository when available.
--->
+
 ## Acknowledgments
 
 Our data generation pipeline builds upon [OpenFly](https://github.com/SHAILAB-IPEC/OpenFly-Platform). We thank the authors for making their work publicly available.
-
-This work was supported by the National Key R&D Program of China under Grant 2024YFF1401001 and the National Natural Science Foundation of China under Grant 62301538.
