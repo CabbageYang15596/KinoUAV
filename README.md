@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <sup>&dagger;</sup> Corresponding author: Peijin Wang (<a href="mailto:wangpeijin17@mails.ucas.ac.cn">wangpeijin17@mails.ucas.ac.cn</a>)
+  <sup>&dagger;</sup> Corresponding author
 </p>
 
 <p>
